@@ -10,15 +10,12 @@ A dynamic iOS weather application built with **SwiftUI**, providing real-time we
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/stephdiep/WeatherApp.git
-   ```
 2. Open the project in Xcode.
 3. Run the app on a simulator or your device.
 
 ## Usage
 1. Upon launching, the app will request location permissions and display current weather based on your location. You can refresh to get updated weather information.
-2. Also need to provide your OPEN Weather API Key in Location Manager file.
+2. Also need to provide your OPEN Weather API Key in Weather Manager file.
 
 ## Requirements
 - Xcode 12 or later
